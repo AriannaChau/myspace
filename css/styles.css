@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  border: 2px;
+  border-style: solid;
+  border-color: blue;
+  width: 150px;
+  height: 150px;
+}
+
+h5 {
+  background-color: #FFBC6C;
+  color: #AC6B00;
+  padding: 10px;
+}
+
+.row {
+  float: left;
+}
+
+ .friend {
+   text-align: center;
+ }
