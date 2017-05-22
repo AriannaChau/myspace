@@ -1,6 +1,3 @@
-* {
-  box-sizing: border-box;
-}
 
 img {
   border: 2px;
@@ -16,10 +13,37 @@ h5 {
   padding: 10px;
 }
 
-.row {
-  float: left;
+p {
+  color: blue;
+  font-weight: bold;
+}
+
+.friendNumber {
+  color: red;
+}
+
+.online {
+  border: none;
+  width: 90px;
+  height: 25px;
 }
 
  .friend {
    text-align: center;
+   float: left;
+   margin-left: 60px;
  }
+ .friend2 {
+   text-align: center;
+   float: left;
+   margin-left: 60px;
+ }
+
+.viewAll {
+  color: red;
+  text-align: right;
+}
+
+.container {
+  width: 65%;
+}
